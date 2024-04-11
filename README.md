@@ -1,4 +1,4 @@
-Este é um projeto simples que demonstra a implementação de um sistema de login utilizando Spring Boot Security.
+###Este é um projeto simples que demonstra a implementação de um sistema de login utilizando Spring Boot Security.
 
 ## Tecnologias Utilizadas
 
@@ -7,4 +7,3 @@ Este é um projeto simples que demonstra a implementação de um sistema de logi
 - **Java:** Linguagem de programação utilizada para desenvolver a aplicação.
 - **Maven:** Gerenciador de dependências usado para gerenciar as dependências do projeto e fazer build do mesmo.
 
-## Funcionalidades
