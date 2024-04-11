@@ -1,5 +1,7 @@
 package com.jean.loginauthapi.infra.security;
 
+import com.jean.loginauthapi.infra.security.CustomUserDetailsService;
+import com.jean.loginauthapi.infra.security.SecurityFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -48,4 +50,3 @@ public class SecurityConfig {
         return authenticationConfiguration.getAuthenticationManager();
     }
 }
-
